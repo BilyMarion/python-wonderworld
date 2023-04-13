@@ -8,4 +8,4 @@ Challenge #2
   Code:120
   
 Challenge #3
-  Code:520
+  Code:125
